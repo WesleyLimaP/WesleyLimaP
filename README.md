@@ -1,6 +1,6 @@
 - 👋 Hi, I’m wesley
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python, java, javaScript, mysql
+- 👀 I’m interested in back end
+- 🌱 I’m currently learning python, java, mysql
 - 💞️ I’m looking to collaborate on open-source projects, especially web development
 - 📫 How to reach me (email - wesleylima029@gmail.com) (instagram - wesley17lima) (linkedin https://www.linkedin.com/in/wesley-lima-8780bb186)
 - 😄 Pronouns: he/him
